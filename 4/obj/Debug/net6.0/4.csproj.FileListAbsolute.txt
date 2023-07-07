@@ -1,0 +1,15 @@
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/bin/Debug/net6.0/4
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/bin/Debug/net6.0/4.deps.json
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/bin/Debug/net6.0/4.runtimeconfig.json
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/bin/Debug/net6.0/4.dll
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/bin/Debug/net6.0/4.pdb
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/obj/Debug/net6.0/4.csproj.AssemblyReference.cache
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/obj/Debug/net6.0/4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/obj/Debug/net6.0/4.AssemblyInfoInputs.cache
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/obj/Debug/net6.0/4.AssemblyInfo.cs
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/obj/Debug/net6.0/4.csproj.CoreCompileInputs.cache
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/obj/Debug/net6.0/4.dll
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/obj/Debug/net6.0/refint/4.dll
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/obj/Debug/net6.0/4.pdb
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/obj/Debug/net6.0/4.genruntimeconfig.cache
+/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Homework1/GeekBrains_HomeWork_1/4/obj/Debug/net6.0/ref/4.dll
